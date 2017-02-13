@@ -1,4 +1,5 @@
 <?php
+echo "kunal";
 $node = new stdclass;
 $node->vid =146942;
 $node->uid =1;
